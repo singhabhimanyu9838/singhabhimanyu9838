@@ -1,5 +1,4 @@
-
-#💫 Hi 👋, I'm Abhimanyu Singh
+# 💫 Hi 👋, I'm Abhimanyu Singh
 
 **A passionate Full-Stack Developer || DSA Enthusiast || Hackathon Winner from India 🇮🇳**
 
