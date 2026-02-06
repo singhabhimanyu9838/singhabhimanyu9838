@@ -2,24 +2,11 @@
 
 **A passionate Full-Stack Developer || DSA Enthusiast || Hackathon Winner from India 🇮🇳**
 
-Email Me 👉 ✉️ **singhabhimanyu9838@gmail.com**
+   Email Me 👉 ✉️ **singhabhimanyu9838@gmail.com**
  For Collaboration, Projects, or Opportunities 😊
 
 🔭 **I’m currently building:** Scalable full-stack web applications
-
 🌱 **I’m learning:** Advanced DSA, Backend Architecture & System Design
-
-👯 **Open to collaborate on:** Web apps, AI tools & hackathon projects
-
-🤔 **Looking for help with:** High-performance & scalable systems
-
-💬 **Ask me about:** Full-Stack Dev, DSA, Projects, Hackathons
-
-📫 **Reach me at:** singhabhimanyu9838@gmail.com
-
-😄 **Pronouns:** **Abhimanyu**
-
-⚡ **Fun fact:** I turn ideas into real products 🚀
 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
