@@ -17,7 +17,7 @@ Email Me 👉 ✉️ **singhabhimanyu9838@gmail.com**
 
 📫 **Reach me at:** singhabhimanyu9838@gmail.com
 
-😄 **Pronouns:** Abhimanyu
+😄 **Pronouns:** **Abhimanyu**
 
 ⚡ **Fun fact:** I turn ideas into real products 🚀
 
